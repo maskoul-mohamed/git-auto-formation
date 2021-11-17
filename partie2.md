@@ -1,0 +1,6 @@
+- git branch testBranch
+- git branch -d testBranch
+- git status
+- git stash
+- git stash apply
+- git stash list
